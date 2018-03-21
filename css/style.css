@@ -165,8 +165,9 @@ header {
 }
 
 #navbar nav a {
-  
+  display: inline-block;
 }
+
 /*////////// LOGO //////////*/
 
 
